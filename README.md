@@ -1,5 +1,6 @@
-# 🪣 Rust Bucket
-High-performance, S3-compatible object storage — built in Rust.
+<p align="center">
+  <img src="https://github.com/rustbucket-labs/.github/blob/main/images/rust-bucket-banner.svg" alt="Rust-Bucket - High-performance, S3-compatible object storage built in Rust">
+</p>
 
 ## 📌 Overview
 
