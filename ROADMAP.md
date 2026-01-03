@@ -21,3 +21,9 @@
 * Multi-node support
 * Replication + eventual consistency
 * Snapshot-style branch/restore behavior (LakeFS-style — optional extension)
+
+## Future
+* Add the Functionality of Alluxio to the Project.
+* Add the Functionality of LakeFS to the Project.
+* Add other S3 Functionality to the Project.
+
